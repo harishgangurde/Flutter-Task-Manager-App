@@ -27,6 +27,12 @@ A clean, full-featured Task Manager mobile application built with Flutter and Fi
 
 ---
 
+## 📥 APK Download
+
+[Download APK](release/app-release.apk)
+
+---
+
 ## ✨ Features
 
 ### 🔐 User Authentication (Firebase Auth)

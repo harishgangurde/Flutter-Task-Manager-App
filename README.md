@@ -7,21 +7,7 @@ A clean, full-featured Task Manager mobile application built with Flutter and Fi
 ## 📱 Screenshots
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="screenshots/login.jpg" width="230"/>
-  <img src="screenshots/home.jpg" width="230"/>
-</p>
 
-<p align="center">
-  <img src="screenshots/add_task.jpg" width="230"/>
-  <img src="screenshots/Added_task.jpg" width="230"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/update_task.jpg" width="230"/>
-  <img src="screenshots/complete_task.jpg" width="230"/>
-</p>
-=======
   <img src="screenshots/login.jpg" width="200"/>
   <img src="screenshots/home.jpg" width="200"/>
   <img src="screenshots/add_task.jpg" width="200"/>
@@ -38,7 +24,6 @@ A clean, full-featured Task Manager mobile application built with Flutter and Fi
 ## 🎥 Demo Video
 
 [Watch TaskFlow Demo Video](https://drive.google.com/drive/folders/1bmklPuZ6SM6MbhdFUTwI8yR_hqyxqt_U?usp=sharing)
->>>>>>> 3495cb79e5d7ebecadc3ea5fa1e2c105ebcd31fd
 
 ---
 

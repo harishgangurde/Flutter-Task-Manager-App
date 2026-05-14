@@ -7,22 +7,22 @@ A clean, full-featured Task Manager mobile application built with Flutter and Fi
 ## 📱 Screenshots
 
 ###  Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/login.jpg)
 
 ###  Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home.jpg)
 
 ###  Add Task Screen
-![Add Task](screenshots/add_task.png)
+![Add Task](screenshots/add_task.jpg)
 
 ###  Added Task Screen
-![Added Task](screenshots/Added_task.png)
+![Added Task](screenshots/Added_task.jpg)
 
 ###  Update Task Screen
-![Update Task](screenshots/update_task.png)
+![Update Task](screenshots/update_task.jpg)
 
 ###  Complete Task Screen
-![Complete Task](screenshots/complete_task.png)
+![Complete Task](screenshots/complete_task.jpg)
 
 ---
 

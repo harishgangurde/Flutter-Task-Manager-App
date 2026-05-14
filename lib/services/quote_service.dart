@@ -9,15 +9,10 @@ class QuoteService {
 
   Future<QuoteModel?> fetchRandomQuote() async {
     try {
-      print("Fetching quote...");
-
       final response = await http.get(
         Uri.parse(_baseUrl),
         headers: {'X-Api-Key': _apiKey},
       );
-
-      print("Status Code: ${response.statusCode}");
-      print("Response Body: ${response.body}");
 
       if (response.statusCode == 200) {
         final List data = jsonDecode(response.body);
@@ -36,7 +31,6 @@ class QuoteService {
 
       return null;
     } catch (e) {
-      print("Quote Error: $e");
       return null;
     }
   }

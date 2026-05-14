@@ -7,18 +7,15 @@ A clean, full-featured Task Manager mobile application built with Flutter and Fi
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/login.jpg" width="230"/>
-  <img src="screenshots/home.jpg" width="230"/>
+  <img src="screenshots/login.jpg" width="200"/>
+  <img src="screenshots/home.jpg" width="200"/>
+  <img src="screenshots/add_task.jpg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/add_task.jpg" width="230"/>
-  <img src="screenshots/added_task.jpg" width="230"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/update_task.jpg" width="230"/>
-  <img src="screenshots/complete_task.jpg" width="230"/>
+  <img src="screenshots/added_task.jpg" width="200"/>
+  <img src="screenshots/update_task.jpg" width="200"/>
+  <img src="screenshots/complete_task.jpg" width="200"/>
 </p>
 
 ---

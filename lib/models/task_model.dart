@@ -1,6 +1,3 @@
-// models/task_model.dart
-// Represents a single task stored in Firestore
-
 class TaskModel {
   final String id;
   final String title;

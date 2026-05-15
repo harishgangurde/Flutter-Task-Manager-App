@@ -1,6 +1,3 @@
-// widgets/quote_card.dart
-// Displays the motivational quote at the top of the home screen
-
 import 'package:flutter/material.dart';
 import '../models/quote_model.dart';
 import 'app_theme.dart';

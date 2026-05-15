@@ -1,6 +1,3 @@
-// services/auth_service.dart
-// Handles all Firebase Auth operations — sign up, login, logout
-
 import 'package:firebase_auth/firebase_auth.dart';
 
 class AuthService {

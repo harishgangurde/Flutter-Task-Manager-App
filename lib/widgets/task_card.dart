@@ -1,6 +1,3 @@
-// widgets/task_card.dart
-// The card that shows up in the task list — handles tap, complete, delete
-
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import '../models/task_model.dart';

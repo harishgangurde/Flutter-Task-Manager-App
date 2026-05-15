@@ -1,6 +1,3 @@
-// screens/home_screen.dart
-// Main dashboard — shows the daily quote, task stats, and the task list
-
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import '../models/quote_model.dart';

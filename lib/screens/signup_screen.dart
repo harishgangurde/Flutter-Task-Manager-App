@@ -1,6 +1,3 @@
-// screens/signup_screen.dart
-// New user registration with email and password
-
 import 'package:flutter/material.dart';
 import '../services/auth_service.dart';
 import '../widgets/app_theme.dart';

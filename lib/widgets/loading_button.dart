@@ -1,6 +1,3 @@
-// widgets/loading_button.dart
-// Button that shows a spinner while an async operation runs
-
 import 'package:flutter/material.dart';
 import 'app_theme.dart';
 

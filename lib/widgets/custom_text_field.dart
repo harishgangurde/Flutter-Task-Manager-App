@@ -1,6 +1,3 @@
-// widgets/custom_text_field.dart
-// A styled text field used throughout the app for consistency
-
 import 'package:flutter/material.dart';
 import 'app_theme.dart';
 

@@ -1,6 +1,3 @@
-// screens/task_form_screen.dart
-// Add a new task or edit an existing one
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import '../models/task_model.dart';

@@ -1,6 +1,3 @@
-// widgets/app_theme.dart
-// Central place for colors, text styles and the overall ThemeData
-
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

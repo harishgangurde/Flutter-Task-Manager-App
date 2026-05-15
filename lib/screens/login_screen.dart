@@ -1,6 +1,3 @@
-// screens/login_screen.dart
-// Let returning users sign in to their account
-
 import 'package:flutter/material.dart';
 import '../services/auth_service.dart';
 import '../widgets/app_theme.dart';

@@ -38,11 +38,12 @@ class _HomeScreenState extends State<HomeScreen> {
   Future<void> _loadQuote() async {
     setState(() => _quoteLoading = true);
     final q = await _quoteService.fetchRandomQuote();
-    if (mounted)
+    if (mounted) {
       setState(() {
         _quote = q;
         _quoteLoading = false;
       });
+    }
   }
 
   void _showDeleteDialog(String taskId) {
